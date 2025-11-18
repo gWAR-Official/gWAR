@@ -1,2 +1,3 @@
-pandas\npybaseball\nnumpy
-
+pandas
+pybaseball
+numpy
